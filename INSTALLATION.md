@@ -8,11 +8,11 @@ The provided `install.sh` script will build everything and install it for you. B
 
 - Ubuntu:
 ```
-sudo apt install g++ extra-cmake-modules qt6-base-dev qt6-declarative-dev libkf6declarative-dev libkf6plasma-dev kf6-ksvg-dev libkdecorations2-dev gettext
+sudo apt install g++ extra-cmake-modules qt6-base-dev qt6-declarative-dev libkf6declarative-dev libkf6plasma-dev kf6-ksvg-dev libkdecorations3-dev gettext
 ```
 - Fedora:
 ```
-sudo dnf install extra-cmake-modules qt5-qtdeclarative-devel kf5-plasma-devel kf5-kdeclarative-devel kf5-kconfigwidgets-devel kf5-ki18n-devel kdecoration-devel
+sudo dnf install extra-cmake-modules qt6-qtdeclarative-devel kf6-plasma-devel kf6-kdeclarative-devel kf6-kconfigwidgets-devel kf6-ki18n-devel kdecoration-devel
 ```
 - Arch:
 ```
