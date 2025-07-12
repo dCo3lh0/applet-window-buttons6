@@ -1,37 +1,37 @@
 # Window Buttons Applet
 
-This is a Plasma 5 applet that shows window buttons in your panels. This plasmoid is coming from [Latte land](https://phabricator.kde.org/source/latte-dock/repository/master/) but it can also support Plasma panels.
+This is a Plasma ~~5~~ (no, 6) applet that shows window buttons in your panels. This plasmoid is coming from [Latte land](https://phabricator.kde.org/source/latte-dock/repository/master/) but it can also support Plasma panels.
 
 <p align="center">
-<img src="https://i.imgur.com/4FItfte.gif" width="580"><br/>
+<img src="https://i.ibb.co/YFWpmmPG/4FItfte.gif" width="580"><br/>
 <i>slide in/out animation</i>
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/70qeMME.png" width="580"><br/>
+<img src="https://i.ibb.co/9dXFnJF/70qeMME.png" width="580"><br/>
 <i>Breeze decoration</i>
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/uEen6P0.png" width="580"><br/>
+<img src="https://i.ibb.co/zVWWM67m/uEen6P0.png" width="580"><br/>
 <i>BreezeEnhanced decoration</i>
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/Zz20RXC.png" width="580"><br/>
+<img src="https://i.ibb.co/GmcMQjY/Zz20RXC.png" width="580"><br/>
 <i>Settings window</i>
 </p>
 
 # Requires
 
-- Qt >= 5.9
-- KF5 >= 5.38
-- Plasma >= 5.23.2
-- KDecoration2 >= 5.23
+- Qt >= 6.4.2
+- KF6 >= 6.13
+- Plasma >= 6.3.0
+- KDecoration3 >= 6.3.0
 
 **Qt elements**: Gui Qml Quick
 
-**KF5 elements**: CoreAddons Declarative Plasma PlasmaQuick extra-cmake-modules
+**KF6 elements**: CoreAddons Declarative Plasma PlasmaQuick extra-cmake-modules
 
 
 # Install
